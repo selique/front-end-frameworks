@@ -509,3 +509,15 @@ Responsive front-end web framework. Makes your front-end development faster and 
 **Website:** http://weice.in/ivory/
 
 **Github:** https://github.com/kanthvallampati/IVORY
+
+## Bulma
+
+> Everything you need to create a website with Bulma
+
+A modern CSS framework based on Flexbox 
+
+**Responsive:** Yes
+
+**Website:** http://bulma.io/
+
+**Github:** https://github.com/jgthms/bulma
